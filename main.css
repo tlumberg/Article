@@ -1,0 +1,59 @@
+body{
+    width: 90%;
+    margin: 1.3em auto;
+}
+
+img {
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+
+h1 {
+   font-size: 50px;
+   line-height: 50px;
+   margin: 0px 0px 15px 0px;
+   font-weight: 400;
+   font-style: normal;
+   font-family: "Slabo 27px";
+   width: 551.953125px;
+}
+
+h2 {
+   font-size: 24px;
+   line-height: 30px;
+   margin: 0px 0px 25px 0px;
+   font-family: "Open Sans";
+   font-weight: 400;
+   font-style: normal;
+}
+
+p {
+   margin: 0px 0px 25px 0px;
+   text-transform: inherit;
+   font-size: 13px;
+   font-family: "Slabo 27px";
+   font-weight: 400;
+   font-style: normal;
+}
+
+p.intro {
+   font-size: 16px;
+   line-height: 27px;
+   margin: 0px 0px 13px 0px;
+   font-family: "Slabo 27px";
+   font-weight: 400;
+   font-style: normal;
+}
+
+li {
+    font-size: 16px;
+    line-height: 16px;
+    margin: 0px 0px 13px 0px;
+    font-family: "Slabo 27px";
+    font-weight: 400;
+    font-style: normal;
+}
+
+@media only screen and (max-width: 500px)
+    
